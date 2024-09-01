@@ -1,2 +1,28 @@
-minivenv
+.vscode/
+
+.for kaggle/
+
+.from_kaggle/
+
+.mini_to_yolo/
+
+.new_env/
+
+.openh264/
+
+.runs/
+
+.videos_for_cvat/
+
+.utils\__pycache__
+
+get-pip.py
+
+
+*.txt
+
+*.png
+
+
+
 
